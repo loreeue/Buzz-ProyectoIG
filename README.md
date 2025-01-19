@@ -58,7 +58,4 @@
 
 Aquí puedes ver el video demostrativo del proyecto:
 
-<video controls width="600">
-  <source src="video/Final.mov" type="video/mp4">
-  Tu navegador no puede reproducir este video. [Descarga el archivo aquí](video/Final.mov).
-</video>
+[Ver el Video](https://drive.google.com/file/d/1n6Sk92-NVb22gKgONJA7mvyKBH7Z-lcf/view?usp=share_link)
